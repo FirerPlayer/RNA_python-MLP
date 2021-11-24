@@ -1,4 +1,4 @@
-# RNA_python-ETHprice
+# RNA_python-MLP
 Uma rede neural artificial pode ser entendida como uma implementação computacional que visa obter algum dado útil de uma base de dados. Tal rede pode ser implementada de diversas formas visando alcançar algum objetivo. Uma das primeiras redes neurais construídas foi Multi-Layer Perceptron (MLP) ou rede perceptron de múltiplas camadas. A MLP consiste no cascateamento em diversas camadas de um neurônio básico de uma rede neural, o perceptron. Esse neurônio artificial pode ser dividido em pesos, entradas e saída. Cada parte sua tem uma relação matematica importante que torna possivel gerar algum resultado. Os pesos são os pesos sinápticos que influencia diretamente na saida do neurônio, a entrada é a fonte de dados que entra no neurônio e, influencia pelos pesos, gera uma saída que resulta de um cálculo sistemático.
 # Detalhes da implementação 
 A implementação é feita em etapas, que vão desde a criação de dados para o treinamento, até a predição final após a construções do algoritmo.
