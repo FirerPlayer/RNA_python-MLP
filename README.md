@@ -7,3 +7,7 @@ A implementação foi realizada na linguagem orientada objeto Python, visto a gr
 sendo exibida numa matriz de entrada para a rede. Utilizando a lógica de programação em python, algumas bibliotecas para visualizar e tratar os dados, foi possível construir um programa que mostra transparentemente o funcionamento de uma MLP.
 Inicialmente, é criado 3 matrizes que representam as letras A, B e C. Após isso, é mais adequado passar para a rede neural não uma matriz, mas sim um único array com todos os dados de entrada. Isso é feito transformando a matriz em um array do Numpy (biblioteca matemática e estatística do python). Após esse tratamento, inicia-se o código da MLP em si. A arquitetura resumida da rede implementada pode ser vista na Figura 3 abaixo.
 Figura 3.
+
+![alt text](https://github.com/FirerPlayer/RNA_python-MLP/blob/main/img1.jpg)
+
+Mais detalhes podem ser vistos no Relatório de Redes Neurais Artificiais, produzido para completar a disciplina de Redes Neurais Artificiais na UFPA.
